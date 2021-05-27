@@ -1,5 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![image title](https://rushter.com/counter.svg)
+
+<!--Visits counter-->
+<h3>
+Thanks for stopping by I hope you'll enjoy my projects! &nbsp; 
+  <a target="_blank" rel="noopener noreferrer" 
+     <br><br><p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasjolibois54&label=Profile%20views&color=0e75b6&style=flat" alt="lucasjolibois54" /> </p>
+  </a>
+</h3>
+
+<!-- A+-->
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjolibois54&show_icons=true&theme=radical)
 <!--
