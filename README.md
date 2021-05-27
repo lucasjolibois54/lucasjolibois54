@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+![image title](https://rushter.com/counter.svg)
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjolibois54&show_icons=true&theme=radical)
 <!--
