@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?lucasjolibois54=<LUCASJOLIBOIS54>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?lucasjolibois54=<LUCASJOLIBOIS54>&theme=<THEME_NAME>" />
 
 
 <!--
