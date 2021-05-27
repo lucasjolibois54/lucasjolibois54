@@ -2,8 +2,8 @@
 
 <!--Visits counter-->
 <!--<h3>
-Thanks for stopping by I hope you'll enjoy my projects! &nbsp; -->
-  <a target="_blank" rel="noopener noreferrer" 
+Thanks for stopping by I hope you'll enjoy my projects! &nbsp; 
+  <a target="_blank" rel="noopener noreferrer" -->
      <br><br><p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasjolibois54&label=Profile%20views&color=0e75b6&style=flat" alt="lucasjolibois54" /> </p>
   </a>
 </h3>
