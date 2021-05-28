@@ -14,6 +14,9 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
 <!-- A+-->
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjolibois54&show_icons=true&theme=radical)
+
+<!-- streak-->
+[![Lucas's Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasjolibois54&theme=soft-green)](https://git.io/streak-stats)
 <!--
 **lucasjolibois54/lucasjolibois54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
