@@ -15,9 +15,6 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjolibois54&show_icons=true&theme=radical)
 
-<!--top languages-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjolibois54&theme=tokyonight)
-
 <!-- streak-->
 [![Lucas's Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasjolibois54&theme=radical&fire=yellow&currStreakNum=yellow)](https://git.io/streak-stats)
 <!--
