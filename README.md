@@ -17,7 +17,7 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
 
 <!-- langauges -->
 
-<p><img align="center" width="496px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeeux&show_icons=true&locale=en&layout=compact&theme=radical" alt="aeeux" /></p>
+<p><img align="center" width="496px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasjolibois54&show_icons=true&locale=en&layout=compact&theme=radical" alt="lucasjolibois54" /></p>
 
 
 <!-- streak-->
