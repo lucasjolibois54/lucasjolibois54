@@ -1,6 +1,5 @@
-<h2 align="center">I'm a frontend Developer<br></h2>
-<!--passionate-->
-### Hi there, I'm <a href="https://lucasjolibois.com" rel="nofollow">Lucas Jolibois</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+## Hi there, I'm <a href="https://lucasjolibois.com" rel="nofollow">Lucas Jolibois</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--Visits counter-->
 
