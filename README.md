@@ -44,7 +44,7 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
 
 
 <!-- streak-->
-[![Lucas's Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasjolibois54&theme=radical&fire=yellow&currStreakNum=yellow)](https://git.io/streak-stats)
+[![Lucas's Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasjolibois54&theme=radical&fire=yellow&currStreakNum=yellow)](https://github.com/lucasjolibois54)
 <!--
 **lucasjolibois54/lucasjolibois54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
