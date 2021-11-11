@@ -2,7 +2,7 @@
 ## Hi there, I'm <a href="https://lucasjolibois.com" rel="nofollow">Lucas Jolibois</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/>A frontend developer with passion 👨‍💻
 
 
-My name is Lucas and I'm a frontend developer that enjoys creating things that live on the web. I'm from Denmark, living in Copenhagen and currently studying multimedia designer with focus in frontend development. <!-- You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].-->
+My name is Lucas, and I'm a frontend developer that enjoys creating things that live on the web. I'm from Denmark, living in Copenhagen and currently studying multimedia designer with focus in frontend development. <!-- You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].-->
 
 
 <img src="https://komarev.com/ghpvc/?username=lucasjolibois54&label=Profile%20views&color=0e75b6&style=flat" alt="lucasjolibois54" />
