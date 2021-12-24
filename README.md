@@ -53,6 +53,7 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjolibois54&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 <!--![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjolibois54&show_icons=true&theme=radical)-->
+<!--https://github-readme-stats.vercel.app/api?username=lucasjolibois54&show_icons=true&theme=algolia&include_all_commits=true&count_private=true-->
 
 <!-- langauges -->
 
