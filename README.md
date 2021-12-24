@@ -50,7 +50,9 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
 
 ## &#x1f4c8; GitHub Stats
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjolibois54&show_icons=true&theme=radical)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjolibois54&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+
+<!--![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjolibois54&show_icons=true&theme=radical)-->
 
 <!-- langauges -->
 
