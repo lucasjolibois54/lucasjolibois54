@@ -33,6 +33,7 @@ My name is Lucas, and I'm a frontend developer & web designer that enjoys creati
 ![Material-UI](https://img.shields.io/static/v1?style=for-the-badge&message=Material-UI&color=222222&logo=Material-UI&logoColor=0081CB&label=)
 ![GreenSock](https://img.shields.io/static/v1?style=for-the-badge&message=GreenSock&color=222222&logo=GreenSock&logoColor=88CE02&label=)
 ![styled-components](https://img.shields.io/static/v1?style=for-the-badge&message=styled-components&color=222222&logo=styled-components&logoColor=FFFFFF&label=)
+![AOS](https://img.shields.io/static/v1?style=for-the-badge&message=AOS&color=222222&logo=Material-UI&logoColor=0081CB&label=)
 <!--![Locomotive-Scroll](https://img.shields.io/static/v1?style=for-the-badge&message=Locomotive-Scroll&color=222222&logo=Locomotive-Scroll&logoColor=0081CB&label=)-->
 
 <br/>
