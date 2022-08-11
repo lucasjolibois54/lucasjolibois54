@@ -23,6 +23,7 @@ My name is Lucas, and I'm a frontend developer & web designer that enjoys creati
 
 ## 🔧 Technologies & Tools
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+![Next JS](https://img.shields.io/badge/Next-222222?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=222222&logo=Node.js&logoColor=339933&label=)
