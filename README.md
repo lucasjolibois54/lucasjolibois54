@@ -22,6 +22,26 @@ My name is Lucas, and I'm a frontend developer & web designer that enjoys creati
 
 
 ## 🔧 Technologies & Tools
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=1572B6&label=)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=222222&logo=Node.js&logoColor=339933&label=)
+![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Gatsby](https://img.shields.io/static/v1?style=for-the-badge&message=Gatsby&color=222222&logo=Gatsby&logoColor=663399&label=)
+![Next JS](https://img.shields.io/badge/Next-222222?style=for-the-badge&logo=next.js&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-222222?style=for-the-badge&logo=shopify&logoColor=339933)
+![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=222222&logo=WordPress&logoColor=21759B&label=)
+![Material-UI](https://img.shields.io/static/v1?style=for-the-badge&message=Material-UI&color=222222&logo=Material-UI&logoColor=0081CB&label=)
+![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+![styled-components](https://img.shields.io/static/v1?style=for-the-badge&message=styled-components&color=222222&logo=styled-components&logoColor=FFFFFF&label=)
+![GreenSock](https://img.shields.io/static/v1?style=for-the-badge&message=GreenSock&color=222222&logo=GreenSock&logoColor=88CE02&label=)
+![AOS](https://img.shields.io/static/v1?style=for-the-badge&message=AOS&color=222222&logo=Material-UI&logoColor=0081CB&label=)
+![Netlify](https://img.shields.io/badge/Netlify-222222?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-222222?style=for-the-badge&logo=vercel&logoColor=white)
+![AUTH0](https://img.shields.io/static/v1?style=for-the-badge&message=Auth0&color=222222&logo=Material-UI&logoColor=0081CB&label=)
+
+
+<!--
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ![Next JS](https://img.shields.io/badge/Next-222222?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
@@ -38,7 +58,7 @@ My name is Lucas, and I'm a frontend developer & web designer that enjoys creati
 ![AOS](https://img.shields.io/static/v1?style=for-the-badge&message=AOS&color=222222&logo=Material-UI&logoColor=0081CB&label=)
 ![Netlify](https://img.shields.io/badge/Netlify-222222?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-222222?style=for-the-badge&logo=vercel&logoColor=white)
-![AUTH0](https://img.shields.io/static/v1?style=for-the-badge&message=Auth0&color=222222&logo=Material-UI&logoColor=0081CB&label=)
+![AUTH0](https://img.shields.io/static/v1?style=for-the-badge&message=Auth0&color=222222&logo=Material-UI&logoColor=0081CB&label=)-->
 
 <!--![Locomotive-Scroll](https://img.shields.io/static/v1?style=for-the-badge&message=Locomotive-Scroll&color=222222&logo=Locomotive-Scroll&logoColor=0081CB&label=)-->
 
