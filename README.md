@@ -31,6 +31,7 @@ My name is Lucas, and I'm a frontend developer & web designer that enjoys creati
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=222222&logo=WordPress&logoColor=21759B&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=1572B6&label=)
+![Shopify](https://img.shields.io/badge/Shopify-222222?style=for-the-badge&logo=shopify&logoColor=339933)
 ![Material-UI](https://img.shields.io/static/v1?style=for-the-badge&message=Material-UI&color=222222&logo=Material-UI&logoColor=0081CB&label=)
 ![GreenSock](https://img.shields.io/static/v1?style=for-the-badge&message=GreenSock&color=222222&logo=GreenSock&logoColor=88CE02&label=)
 ![styled-components](https://img.shields.io/static/v1?style=for-the-badge&message=styled-components&color=222222&logo=styled-components&logoColor=FFFFFF&label=)
