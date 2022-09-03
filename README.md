@@ -3,7 +3,7 @@
 
 
 My name is Lucas, and I'm a frontend developer & web designer that enjoys creating things that live on the web. I'm from Denmark, living in Copenhagen and currently studying web development with focus in frontend development. 
-- Currently working on <a target="_blank" href="https://github.com/lucasjolibois54/lb-fitness"><b>LB Fitness🏋️</b></a> <!-- You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].-->
+- Currently working on <a href="https://github.com/lucasjolibois54/lb-fitness"><b>LB Fitness🏋️</b></a> <!-- You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].-->
 
 <div>
 <img src="https://komarev.com/ghpvc/?username=lucasjolibois54&label=Profile%20views&color=0e75b6&style=flat" alt="lucasjolibois54" />
