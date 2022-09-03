@@ -2,7 +2,8 @@
 ## Hi there, I'm <a href="https://lucasjolibois.com" rel="nofollow">Lucas Jolibois</a> <!--<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">--> <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25rem"><br/>A frontend developer with passion 👨‍💻
 
 
-My name is Lucas, and I'm a frontend developer & web designer that enjoys creating things that live on the web. I'm from Denmark, living in Copenhagen and currently studying web development with focus in frontend development. <!-- You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].-->
+My name is Lucas, and I'm a frontend developer & web designer that enjoys creating things that live on the web. I'm from Denmark, living in Copenhagen and currently studying web development with focus in frontend development. 
+- Curently working on <a href="https://github.com/lucasjolibois54/lb-fitness"><b>LB Fitness🏋️</b></a> <!-- You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].-->
 
 <div>
 <img src="https://komarev.com/ghpvc/?username=lucasjolibois54&label=Profile%20views&color=0e75b6&style=flat" alt="lucasjolibois54" />
