@@ -62,7 +62,7 @@ My name is Lucas, and I'm a frontend developer & web designer that enjoys creati
 ![Vercel](https://img.shields.io/badge/Vercel-222222?style=for-the-badge&logo=vercel&logoColor=white)
 ![AUTH0](https://img.shields.io/static/v1?style=for-the-badge&message=Auth0&color=222222&logo=Material-UI&logoColor=0081CB&label=)
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap&logoColor=563d7c)
 ![Ionic](https://img.shields.io/badge/Ionic-222222?style=for-the-badge&logo=ionic&logoColor=3880FF)
 
 <!--![Locomotive-Scroll](https://img.shields.io/static/v1?style=for-the-badge&message=Locomotive-Scroll&color=222222&logo=Locomotive-Scroll&logoColor=0081CB&label=)-->
