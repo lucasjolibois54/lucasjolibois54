@@ -64,6 +64,7 @@ My name is Lucas, and I'm a frontend developer & web designer that enjoys creati
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap&logoColor=563d7c)
 ![Ionic](https://img.shields.io/badge/Ionic-222222?style=for-the-badge&logo=ionic&logoColor=3880FF)
+![Ionic](https://img.shields.io/badge/Angular-222222?style=for-the-badge&logo=angular&logoColor=DD0031)
 
 <!--![Locomotive-Scroll](https://img.shields.io/static/v1?style=for-the-badge&message=Locomotive-Scroll&color=222222&logo=Locomotive-Scroll&logoColor=0081CB&label=)-->
 
