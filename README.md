@@ -94,11 +94,26 @@ Thanks for stopping by I hope you'll enjoy my projects! &nbsp;
 
 <!-- langauges -->
 
-<p><img align="center" width="496px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasjolibois54&show_icons=true&locale=en&layout=compact&theme=radical" alt="lucasjolibois54" /></p>
+<!--<p><img align="center" width="496px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasjolibois54&show_icons=true&locale=en&layout=compact&theme=radical" alt="lucasjolibois54" /></p>-->
 
-
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=lucasjolibois54&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
+        width="455px"
+      />
+    </td>
+    <td align="left">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasjolibois54&layout=compact&theme=radical" 
+        width="345px"
+      />
+    </td>
+  </tr>
+</table>
 <!-- streak-->
-[![Lucas's Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasjolibois54&theme=radical&fire=yellow&currStreakNum=yellow)](https://github.com/lucasjolibois54)
+<!--[![Lucas's Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasjolibois54&theme=radical&fire=yellow&currStreakNum=yellow)](https://github.com/lucasjolibois54)-->
 <!--
 **lucasjolibois54/lucasjolibois54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
