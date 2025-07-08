@@ -10,15 +10,16 @@ My name is Lucas, and I'm a frontend developer & web designer that enjoys creati
   <img src="https://komarev.com/ghpvc/?username=lucasjolibois54&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/lucas-bendix-jolibois/" target="_blank" rel="nofollow">
+  <a href="https://www.linkedin.com/in/lucas-bendix-jolibois/" rel="nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
   <!-- Portfolio -->
-  <a href="https://www.lucasjolibois.com/" target="_blank" rel="nofollow">
+  <a href="https://www.lucasjolibois.com/" rel="nofollow">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio Badge" />
   </a>
 </div>
+
 
 <br/>
 
